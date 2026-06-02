@@ -27,6 +27,14 @@ only the structural design, expressed as Mermaid diagrams that render natively o
 > authorization, an idempotent submission pipeline, and a domain schema designed around a
 > single date axis. The diagrams below reflect that focus.
 
+## UI Preview
+
+The frontend applies a dual semantic color scale — wellness (0–100 %, green-positive) and RPE (0–10, red-alert inverted) — alongside an interactive body-map component (`react-muscle-highlighter`) for per-zone fatigue and pain tagging.
+
+| Trainer Dashboard | Player Wizard |
+|:---:|:---:|
+| ![Trainer dashboard in MAMS displaying the full-squad monitoring grid, with per-athlete cards color-coded by wellness score (green scale) and RPE value (red-alert scale)](./assets/dashboard-trainer-grid.png) | ![Player daily wellness submission wizard showing the 0–100 % readiness input, the interactive body-map highlighter for tagging fatigue or pain zones, and the RPE entry field](./assets/player-wizard-wellness.png) |
+
 ## Diagrams
 
 | # | Document | What it shows |
