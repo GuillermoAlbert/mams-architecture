@@ -8,6 +8,11 @@
   <img src="https://img.shields.io/badge/JWT-2563a8?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
 </p>
 
+> [!NOTE]
+> **MAMS is a commercial product in active development — its source code is private by design.**
+> This is the public architecture reference: it documents the system's structure and key design
+> decisions, not the implementation.
+
 **My Athlete Monitoring System (MAMS)** is a platform for training-load monitoring,
 injury prevention, and athlete fitness tracking.
 
